@@ -1,0 +1,13 @@
+name: ebandejas
+version: 0.1.0
+
+authors:
+  - Luis Gomez <xtokio@gmail.com>
+
+targets:
+  ebandejas:
+    main: src/ebandejas.cr
+
+crystal: 1.0.0
+
+license: MIT
